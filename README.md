@@ -2,5 +2,6 @@ Being a self-taught **data scientist** is quite challenging. There are many fact
 
 ## Lists of the contents in Notebooks
 -  [Delta Lake Rapid Start with Python](https://databricks-prod-cloudfront.cloud.databricks.com/public/4027ec902e239c93eaaa8714f173bcfc/1307471317546243/2437520878414307/7821299644323399/latest.html)
+- [Delta Lake Rapid Start with SQL](https://databricks-prod-cloudfront.cloud.databricks.com/public/4027ec902e239c93eaaa8714f173bcfc/1307471317546243/4225198021450387/7821299644323399/latest.html)
 
 
