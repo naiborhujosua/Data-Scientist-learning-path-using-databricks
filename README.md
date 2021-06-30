@@ -1,3 +1,5 @@
+<img src="https://github.com/naiborhujosua/Data-Scientist-learning-path-using-databricks/blob/main/dspath.JPG"/>
+
 Being a self-taught **data scientist** is quite challenging. There are many factors that i have to face in order to advance this field. That's why i would like to take notes for every online courses that i will take in Databricks Academy. I hope i can reinforce my learning rate into the right skills that could be implemented in my new career as a Data Scientist. This certification workshop is taken from one of the workshop from Databricks called [Data Scientist learning path](https://academy.databricks.com/data-scientist). The exercises and activities will be excuted in Jupyter Notebooks through Databricks platform. The courses are really comprehensive through theory and practical implementation. The contents of the courses including the theory and implementation of data lake, delta lake, and the implementation of Machine learning in MLflow.
 
 ## Lists of the contents in Notebooks
