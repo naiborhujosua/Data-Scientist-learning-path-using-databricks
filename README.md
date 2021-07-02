@@ -13,3 +13,4 @@ Being a self-taught **data scientist** is quite challenging. There are many fact
 ## References
 - [Spark In Action](https://www.amazon.com/Spark-Action-Jean-Georges-Perrin/dp/1617295523)
 - [Spark ML Programming Guide]( https://spark.apache.org/docs/1.2.2/ml-guide.html)
+- [Data Science with Apache Spark](https://george-jen.gitbook.io/data-science-and-apache-spark/)
