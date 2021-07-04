@@ -9,7 +9,7 @@ Being a self-taught **data scientist** is quite challenging. There are many fact
 -  [Delta Lake Rapid Start with Python](https://databricks-prod-cloudfront.cloud.databricks.com/public/4027ec902e239c93eaaa8714f173bcfc/1307471317546243/2437520878414307/7821299644323399/latest.html)
 - [Delta Lake Rapid Start with SQL](https://databricks-prod-cloudfront.cloud.databricks.com/public/4027ec902e239c93eaaa8714f173bcfc/1307471317546243/4225198021450387/7821299644323399/latest.html)
 - [ML Flow with ML Model Implementation](https://databricks-prod-cloudfront.cloud.databricks.com/public/4027ec902e239c93eaaa8714f173bcfc/1307471317546243/1616830359586167/7821299644323399/latest.html)
-- 
+
 
 
 ## References
