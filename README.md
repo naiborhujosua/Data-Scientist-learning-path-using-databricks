@@ -13,7 +13,7 @@ Being a self-taught **data scientist** is quite challenging. There are many fact
 - [Preparing a Machine Learning Model](https://databricks-prod-cloudfront.cloud.databricks.com/public/4027ec902e239c93eaaa8714f173bcfc/1307471317546243/4043315233773860/7821299644323399/latest.html
 )
 
-##Data Science on Databricks: The Bias-Variance Tradeoff
+## Data Science on Databricks: The Bias-Variance Tradeoff
 - [Create Aggregate Sample](https://databricks-prod-cloudfront.cloud.databricks.com/public/4027ec902e239c93eaaa8714f173bcfc/1307471317546243/2803333249888741/7821299644323399/latest.html)
 - [Explore Aggregate Sample]()
 
