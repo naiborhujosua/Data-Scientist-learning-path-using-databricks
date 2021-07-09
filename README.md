@@ -10,8 +10,8 @@ Being a self-taught **data scientist** is quite challenging. There are many fact
 - [Delta Lake Rapid Start with SQL](https://databricks-prod-cloudfront.cloud.databricks.com/public/4027ec902e239c93eaaa8714f173bcfc/1307471317546243/4225198021450387/7821299644323399/latest.html)
 - [ML Flow with ML Model Implementation](https://databricks-prod-cloudfront.cloud.databricks.com/public/4027ec902e239c93eaaa8714f173bcfc/1307471317546243/1616830359585388/7821299644323399/latest.html)
 - [Hyperopt with ML Model Implementation](https://databricks-prod-cloudfront.cloud.databricks.com/public/4027ec902e239c93eaaa8714f173bcfc/1307471317546243/1616830359585188/7821299644323399/latest.html)
-
-
+- [Preparing a Machine Learning Model](https://databricks-prod-cloudfront.cloud.databricks.com/public/4027ec902e239c93eaaa8714f173bcfc/1307471317546243/4043315233773860/7821299644323399/latest.html
+)
 ## References
 - [Spark In Action](https://www.amazon.com/Spark-Action-Jean-Georges-Perrin/dp/1617295523)
 - [Spark ML Programming Guide]( https://spark.apache.org/docs/1.2.2/ml-guide.html)
